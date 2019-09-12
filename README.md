@@ -34,7 +34,7 @@ To use Maven, add the following lines to your pom.xml file:
       <dependency>
         <groupId>com.google.api-client</groupId>
         <artifactId>google-api-client</artifactId>
-        <version>1.30.2</version>
+        <version>1.30.3</version>
       </dependency>
     </dependencies>
   </project>
